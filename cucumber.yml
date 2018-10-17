@@ -1,0 +1,11 @@
+## YAML Templatesss
+---
+default: -p pretty -p json_report -p prehom -p com_headless
+pretty: --format pretty
+progress: --format progress
+html:  --format html --out=report/report.html
+json_report: --format progress --format json --out=report/features.json
+prehom:  ENVIRONMENT_TYPE=prehom
+desenv:  ENVIRONMENT_TYPE=desenv
+com_headless:  HEADLESS=com_headless
+sem_headless:  HEADLESS=sem_headless

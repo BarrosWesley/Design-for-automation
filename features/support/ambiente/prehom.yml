@@ -1,0 +1,8 @@
+#urls
+url: https://prehom.dpf.gov.br/siproquim-fiscalizacao
+url_home: https://prehom.dpf.gov.br/siproquim-fiscalizacao/inicio
+
+#usuario
+user:
+  email: juliana.jp
+  senha: ctidpf

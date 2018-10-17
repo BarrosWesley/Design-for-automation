@@ -1,0 +1,8 @@
+#urls
+url: https://sistemasdesenv.dpf.gov.br/siproquim-fiscalizacao/inicio
+url_home: https://sistemasdesenv.dpf.gov.br/siproquim-fiscalizacao/inicio
+
+#usuario
+user:
+  username: juliana.jp
+  password: ctidpf
